@@ -3,8 +3,8 @@
 
 查看“司马懿〔莱妮丝〕”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
 document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"司马懿〔莱妮丝〕","wgTitle":"司马懿〔莱妮丝〕","wgCurRevisionId":287726,"wgRevisionId":0,"wgArticleId":39447,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"司马懿〔莱妮丝〕","wgRelevantArticleId":39447,"wgRequestId":"364ba1295a9691b9e88bc091","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
-});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"司马懿〔莱妮丝〕","wgTitle":"司马懿〔莱妮丝〕","wgCurRevisionId":291904,"wgRevisionId":0,"wgArticleId":39447,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"司马懿〔莱妮丝〕","wgRelevantArticleId":39447,"wgRequestId":"92c46808c8d995397a6f1707","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":false,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@1futr5l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
 
 
@@ -506,7 +506,7 @@ a.feedlink {
 |特性3=活在当下的人类
 |人型=是
 |被EA特攻=是
-|昵称=
+|昵称=义妹
 |立绘1=第１阶段
 |文件1=司马懿〔莱妮丝〕初始
 |立绘2=第２阶段
@@ -555,10 +555,23 @@ a.feedlink {
 |自身的攻击力下降(3回合)【负面效果】|20%|||||||||
 }}
 '''技能3（灵基再临第3阶段开放）'''
+<tabber>
+强化前=
 {{持有技能|无敌|至高礼装·月灵髓液 B|至上礼装・月霊髄液 B|8
 |付与己方单体无敌状态(2次·3回合)|∅|||||||||
 |弱化状态耐性提升(3回合)|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
 }}
+|-|
+强化后=
+{{持有技能|无敌|<!--译名-->|至上礼装・月霊髄液 EX|8
+|己方単体に無敵状態を付与(2次・3回合)<!--味方単体に無敵状態を付与(2回・3ターン)-->
+|∅|||||||||
+|弱体耐性を提升(3回合)<!--弱体耐性をアップ(3ターン)-->
+|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+|NPを增加<!--NPを増やす[g][o]▲[/o][/g]-->
+|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+</tabber>
 
 ===职阶技能===
 {{职阶技能|对魔力|对魔力|B|自身的弱化状态耐性提升(17.5%)|骑乘|骑乘|B|自身的Quick指令卡性能提升(8%)|阵地建造|阵地建造|B|自身的Arts指令卡性能提升(8%)}}
@@ -622,8 +635,8 @@ a.feedlink {
 身高／体重：149cm·42kg
 出处：三国演义等
 地域：中国
-属性：中立·中庸　　性别：女性
-身高、体重、性别当然是凭依对象的。
+属性：中立·中庸　　　性别：女性
+身高、体重、性别用的当然是凭依之躯的数据。
 
 |资料1日文=
 身長／体重：149cm・42kg
@@ -711,7 +724,7 @@ a.feedlink {
 
 |资料6=
 司马懿之所以被召唤，是孔明被召唤至君主·埃尔梅罗Ⅱ世中导致的结果——也就是其「连锁召唤」。
-在孔明的宝具·出师表的助推之下，与孔明有缘的司马懿，选择了与埃尔梅罗Ⅱ世有缘的莱妮丝进行了连锁召唤。
+在孔明的宝具·出师表的助推之下，与孔明有缘的司马懿，与埃尔梅罗Ⅱ世有缘的莱妮丝被选为了连锁召唤的对象。
 
 而基于这种原因来到了迦勒底的莱妮丝，由于其站在负有时钟塔实际君主（Lord）责任的立场上，因此对突然成为世界最后御主的主人公持同情的态度。
 尽管平时非常乐见御主陷入艰苦的境地，但到了万不得已的关键时刻，还是会利用司马懿的能力成为强大的同伴吧。
@@ -794,7 +807,7 @@ a.feedlink {
 [[分类:拟似从者]]
 该页面使用的模板：
 
-司马懿〔莱妮丝〕/成长曲线（查看源代码）司马懿〔莱妮丝〕/未来Pick Up情况（查看源代码）司马懿〔莱妮丝〕/语音（查看源代码）埃尔梅罗午茶时光（查看源代码）水银巧克力（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至司马懿〔莱妮丝〕。
+司马懿〔莱妮丝〕/成长曲线（查看源代码）司马懿〔莱妮丝〕/未来Pick Up情况（查看源代码）司马懿〔莱妮丝〕/语音（查看源代码）埃尔梅罗午茶时光（查看源代码）水银巧克力（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至司马懿〔莱妮丝〕。
  
 						取自“http://fgo.wiki/w/司马懿〔莱妮丝〕”					
  
@@ -853,41 +866,6 @@ a.feedlink {
 
 
 
-
-
-
-英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
-
-
-
-热门
-
-
-国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
-
-
-
-扩展
-
-
-关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
-
-
-
-趣味
-
-
-FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
-
-
-
-常用
-
-
-首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
-
-
-
 工具
 
 
@@ -911,10 +889,10 @@ function copyURL_sidebar(btn)
 
 
 当前活动
-日服：『Fate/Requiem』棋盘游戏默示录
-国服：淑女·莱妮丝事件簿
+国服：Lostbelt No.4 创世灭亡轮回 由伽·刹多罗
 
 新增从者
+★4(SR) 宇津见艾莉瑟(Lancer)
 ★4(SR) 鬼女红叶(Berserker)
 ★5(SSR) 旅行者(Foreigner)
 英灵图鉴
@@ -923,11 +901,12 @@ function copyURL_sidebar(btn)
 抽卡模拟器
 
 国服
-事件簿联动活动推荐召唤
+由伽·刹多罗推荐召唤
+Lostbelt No.4开幕前夕推荐召唤
+幕间第9弹推荐召唤
 
 日服
-FR联动推荐召唤
-FR联动开幕前夕推荐召唤
+幕间物语活动第13弹推荐召唤
 周常规划
 菜单
 
@@ -1046,6 +1025,6 @@ if (result == false) {
 
 
 
-(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121});});
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95});});
 
 
